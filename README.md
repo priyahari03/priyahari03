@@ -1,19 +1,13 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://github.com/your-username/your-username/raw/main/banner.png" alt="Banner" width="100%" />
-</p>
 
-<h1 align="center">Hi 👋, I'm Hari Priya</h1>
+
+<h1 align="center">Hi 👋, I'm Hari Priya Hari Selvam </h1>
 <h3 align="center">Full Stack Developer | Java | React | Cloud | AI Enthusiast</h3>
 
 ---
 
-## 🔥 About Me
-- 🌱 I’m currently learning **Spring Boot, Microservices, AWS**
-- 💼 I work with **Full Stack Projects (React + Java/Spring Boot)**
-- 💬 Ask me about **Java, DSA, React, APIs**
-- 🚀 Building projects with **AI, Astronomy, Aurora, Cosmic themes**
-- 📫 Reach me at: **your-email@gmail.com**
+## About Me
+Iam a Full Stack Developer over 4+ years of  experience in building sclable enterprise  solutions in Agile Methodologies.
+Along with Devops skills and deploying application in cloud-native environment.
 
 ---
 
@@ -21,12 +15,12 @@
 
 ### **Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c++" />
 </p>
 
 ### **Frontend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=angular,react,html,css,tailwind,bootstrap" />
 </p>
 
 ### **Backend**
@@ -41,15 +35,7 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=react" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=react" width="48%"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=react" width="40%"/>
-</p>
 
 ---
 
