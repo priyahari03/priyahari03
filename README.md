@@ -57,7 +57,24 @@
 
 ## 💼 Experience
 
-### **Graduate Assistant|Software Engineer — University of Texas at Arlington**  📍 Arlington, Texas, USA | 🗓 *09/2023 – Present*
+
+### **Software Engineer — JP Morgan & Chase **  📍 Arlington, Texas, USA | 🗓 *01/2025 – Present*
+
+-Architected secure, event-driven microservices using Spring Boot, Spring MVC, and Kafka to support high-volume transaction and payment workflows, processing
+2M+ daily events with sub-second latency and high fault tolerance.
+- Engineered enterprise authentication and authorization layers with Spring Security and JWT, enforcing role-based access across distributed APIs and reducing
+unauthorized access attempts by 40% while meeting internal security and audit controls.
+- Created responsive frontend applications using React.js and React Hooks for internal risk and compliance dashboards, improving real-time data rendering
+performance by 35% and enhancing analyst productivity.
+-Automated end-to-end CI/CD pipelines using GitHub Actions, integrating JUnit testing, build validation, and container image deployment to AWS EKS and EC2,
+reducing release cycles by 45% and minimizing production deployment failures.
+ -Integrated ChatGPT APIs via LangChain into internal developer and operations tooling to accelerate incident diagnostics and knowledge retrieval, cutting mean time
+to resolution (MTTR) by 25% while adhering to data governance policies.
+
+---
+
+
+### **Graduate Assistant|Software Engineer — University of Texas at Arlington**  📍 Arlington, Texas, USA | 🗓 *09/2023 – 12/2024*
 
 - Implemented interactive dashboards using **React JS, Node.js, and SQL** to analyze Texas city budgets, achieving a **30% reduction in budget planning time**.  
 - Applied **AI-assisted tools** (Cursor AI, ChatGPT) to accelerate UI development and debugging, increasing overall productivity.  
