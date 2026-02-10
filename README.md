@@ -58,7 +58,7 @@
 ## 💼 Experience
 
 
-### **Software Engineer — JP Morgan & Chase **  📍 Arlington, Texas, USA | 🗓 *01/2025 – Present*
+### **Software Engineer — JP Morgan & Chase**  📍 Willimgton, Delaware, USA | 🗓 *01/2025 – Present*
 
 -Architected secure, event-driven microservices using Spring Boot, Spring MVC, and Kafka to support high-volume transaction and payment workflows, processing
 2M+ daily events with sub-second latency and high fault tolerance.
@@ -68,7 +68,7 @@ unauthorized access attempts by 40% while meeting internal security and audit co
 performance by 35% and enhancing analyst productivity.
 -Automated end-to-end CI/CD pipelines using GitHub Actions, integrating JUnit testing, build validation, and container image deployment to AWS EKS and EC2,
 reducing release cycles by 45% and minimizing production deployment failures.
- -Integrated ChatGPT APIs via LangChain into internal developer and operations tooling to accelerate incident diagnostics and knowledge retrieval, cutting mean time
+-Integrated ChatGPT APIs via LangChain into internal developer and operations tooling to accelerate incident diagnostics and knowledge retrieval, cutting mean time
 to resolution (MTTR) by 25% while adhering to data governance policies.
 
 ---
