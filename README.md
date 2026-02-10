@@ -7,7 +7,7 @@
 
 ## 👩‍💻 About Me
 
-- Full Stack Developer with **4+ years of experience** building scalable, high-performance enterprise applications using Agile methodologies.  
+- Full Stack Developer with **5 years of experience** building scalable, high-performance enterprise applications using Agile methodologies.  
 - Skilled in both **frontend and backend development**, including designing RESTful APIs and implementing microservices.  
 - Experienced in architecting **cloud-native applications** and working with modern cloud platforms.  
 - Strong **DevOps** background with hands-on experience in CI/CD automation, containerization, and cloud deployments.  
@@ -60,15 +60,15 @@
 
 ### **Software Engineer — JP Morgan & Chase**  📍 Willimgton, Delaware, USA | 🗓 *01/2025 – Present*
 
--Architected secure, event-driven microservices using Spring Boot, Spring MVC, and Kafka to support high-volume transaction and payment workflows, processing
+- Architected secure, event-driven microservices using **Spring Boot, Spring MVC, and Kafka** to support high-volume transaction and payment workflows, processing
 2M+ daily events with sub-second latency and high fault tolerance.
 - Engineered enterprise authentication and authorization layers with Spring Security and JWT, enforcing role-based access across distributed APIs and reducing
 unauthorized access attempts by 40% while meeting internal security and audit controls.
 - Created responsive frontend applications using React.js and React Hooks for internal risk and compliance dashboards, improving real-time data rendering
 performance by 35% and enhancing analyst productivity.
--Automated end-to-end CI/CD pipelines using GitHub Actions, integrating JUnit testing, build validation, and container image deployment to AWS EKS and EC2,
+- Automated end-to-end CI/CD pipelines using GitHub Actions, integrating JUnit testing, build validation, and container image deployment to AWS EKS and EC2,
 reducing release cycles by 45% and minimizing production deployment failures.
--Integrated ChatGPT APIs via LangChain into internal developer and operations tooling to accelerate incident diagnostics and knowledge retrieval, cutting mean time
+- Integrated ChatGPT APIs via LangChain into internal developer and operations tooling to accelerate incident diagnostics and knowledge retrieval, cutting mean time
 to resolution (MTTR) by 25% while adhering to data governance policies.
 
 ---
